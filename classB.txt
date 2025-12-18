@@ -1,0 +1,4 @@
+101;Pham Van D;20;9.0
+102;Hoang Thi E;19;8.8
+103;Vu Quang F;22;7.8
+104;Dang Thi G;20;8.2
